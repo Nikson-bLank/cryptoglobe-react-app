@@ -42,7 +42,7 @@ const Cryptocurrencies = ({only10}) => {
      <Typography.Title level={2} style={{textAlign:"center"}}>Sorry Matching Cryptocurrency Not Found!</Typography.Title>
      </>
    }
-  console.log(cryptoCoinsList);
+  // console.log(cryptoCoinsList);
 
   return (
    <>

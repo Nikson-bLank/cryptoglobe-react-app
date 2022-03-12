@@ -1,5 +1,5 @@
 import { Switch, Route } from "react-router-dom";
-import { Layout , Typography, Space} from "antd";
+import { Layout } from "antd";
 //components
 import Navbar from "./component/Navbar";
 import Footer from "./component/Footer";
